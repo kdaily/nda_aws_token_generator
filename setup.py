@@ -6,5 +6,5 @@ setup(name='nda-aws-token-generator',
       author='NDA',
       author_email='NDAHelp@mail.nih.gov',
       url='http://ndar.nih.gov',
-      py_modules=['nda_aws_token_generator']
+      packages=['nda_aws_token_generator']
       )
